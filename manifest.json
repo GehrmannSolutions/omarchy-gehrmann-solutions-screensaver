@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "solutions.gehrmann.circuit-screensaver",
+  "name": "GS Circuit Screensaver",
+  "version": "1.0.0",
+  "author": "Marius Gehrmann",
+  "description": "Generative screensaver: neon circuit traces grow out of the Gehrmann Solutions logo on every monitor, then fade back and start over.",
+  "kinds": [
+    "service"
+  ],
+  "keepLoaded": true,
+  "entryPoints": {
+    "service": "Service.qml"
+  }
+}
