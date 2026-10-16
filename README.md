@@ -42,7 +42,7 @@ itself is changed.
 ## Install
 
 ```bash
-omarchy plugin add <git-url> --enable
+omarchy plugin add https://github.com/GehrmannSolutions/omarchy-gehrmann-solutions-screensaver.git --enable
 omarchy toggle screensaver
 ```
 
